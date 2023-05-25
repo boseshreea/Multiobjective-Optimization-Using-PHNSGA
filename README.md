@@ -1,1 +1,8 @@
 # Multiobjective-Optimization-Using-PHNSGA
+
+Abstract:
+This is a novel approach to optimizing profit for a business that needs to cater to a limited number of customers. The main objective is to choose the orders in a way such that we can optimize the overall profit from the sales. To obtain this, we have four objectives to attend - maximizing profit amount from the delivery of each order, maximizing discount(referred to as cost) given to keep our loyal customers, maximizing sales of each order, and minimizing distance traveled, which are conflicting with each other. Here we propose a multi-objective optimization system implemented with a Pareto-Based Hybrid Non-Dominated Sorting Genetic Algorithm to achieve the goal. This proposed system is evaluated on a real-world dataset to show its effectiveness in maximizing profit. The results demonstrate that the proposed system outperforms existing methods of profit optimization and provides better insights to business owners. We plot the results in a Pareto Graph to understand the Non-Dominated solutions better and check if the curve of Maximization is working over the suggested mathematical model. Overall, this research provides a valuable contribution to the field of profit optimization and can be applied to other businesses facing similar constraints.
+
+![lli](https://github.com/boseshreea/Multiobjective-Optimization-Using-PHNSGA/assets/115404220/974a6417-de6f-4f21-8107-bf7d26b3adf4)
+![llli](https://github.com/boseshreea/Multiobjective-Optimization-Using-PHNSGA/assets/115404220/caaa6755-bda6-413f-9462-24e3617ac062)
+![ll](https://github.com/boseshreea/Multiobjective-Optimization-Using-PHNSGA/assets/115404220/44630808-83c7-4e04-a500-f7c828d86e66)
